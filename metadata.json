@@ -1,0 +1,5 @@
+{
+  "name": "Spender Buddy",
+  "description": "An AI-powered research assistant that helps you find products based on your specific requirements by searching the internet and providing a summarized answer with sources.",
+  "requestFramePermissions": []
+}
